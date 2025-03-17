@@ -1,0 +1,6 @@
+framework module InMobiAppLovinAdapterFramework {
+  umbrella header "InMobiAppLovinAdapterFramework.h"
+  export *
+
+  module * { export * }
+}
